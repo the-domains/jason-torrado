@@ -1,0 +1,23 @@
+name: Jason.Torrado
+favicon: null
+layout_spectrum: 0.05836941790767014
+typography_spectrum: 0.3367211096920073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3631155376788229
+  lightness: 0.806036890251562
+  saturation: 0.9665730376727879
+  rhythmicContrast: 0.9443507890682667
+purpose: []
